@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=LBYHKKDCYX&fontSize=60&fontAlignY=35&animation=fadeIn" width="100%" />
 </div>
 
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/272200908?s=200&v=4" alt="avatar" style="width: 120px; height: 120px; border-radius: 50%;" />
+</p>
+
 <h1 align="center">👋 你好，我是 LBYHKKDCYX</h1>
 
 <p align="center">
@@ -9,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LBYHKKDCYX&color=blueviolet&style=flat-square&label=访问量" alt="Profile views" />
+  <img src="https://visitcount.itsvg.in/api?id=LBYHKKDCYX&icon=0& color=12" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/LBYHKKDCYX?style=flat-square&color=blue" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/LBYHKKDCYX?style=flat-square&color=yellow" alt="GitHub stars" />
 </p>
