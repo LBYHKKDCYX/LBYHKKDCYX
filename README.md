@@ -28,7 +28,7 @@
 ---
 
 ## 🛠️ 技术栈
-<p align="center">
+<div align="center">
 
   ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
   ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
@@ -49,7 +49,7 @@
   ![Raspberry Pi Badge](https://img.shields.io/badge/Raspberry%20Pi-007ACC?logo=raspberrypi&logoColor=fff&style=flat)
   ![SVG Badge](https://img.shields.io/badge/SVG-007ACC?logo=svg&logoColor=fff&style=flat)
   ![PowerShell Badge](https://img.shields.io/badge/PowerShell-007ACC?logo=powershell&logoColor=fff&style=flat)
-</p>
+</div>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,vite,nodejs,npm" alt="Tech Stack" />
