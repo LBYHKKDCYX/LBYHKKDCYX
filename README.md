@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img width="126" src=".github/assets/avatar-frame.svg" alt="avatar" />
+  <img width="126" src="/assets/avatar-frame.svg" alt="avatar" />
 </p>
 
 <h1 align="center">👋 你好，我是 LBYHKKDCYX</h1>
