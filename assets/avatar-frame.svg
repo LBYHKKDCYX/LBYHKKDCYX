@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="126" height="126" viewBox="0 0 126 126">
+  <defs>
+    <clipPath id="circle">
+      <circle cx="63" cy="63" r="57" />
+    </clipPath>
+  </defs>
+
+  <!-- 圆形头像 -->
+  <image x="6" y="6" width="114" height="114" xlink:href="https://avatars.githubusercontent.com/u/272200908?s=200&amp;v=4" clip-path="url(#circle)" />
+
+  <!-- 灰色圆框描边 -->
+  <circle cx="63" cy="63" r="57" fill="none" stroke="#888888" stroke-width="3" />
+</svg>

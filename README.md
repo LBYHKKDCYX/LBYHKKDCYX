@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/272200908?s=200&v=4" alt="avatar" style="width: 120px; height: 120px; border-radius: 50%; border: 3px solid #888;" />
+  <img width="126" src=".github/assets/avatar-frame.svg" alt="avatar" />
 </p>
 
 <h1 align="center">👋 你好，我是 LBYHKKDCYX</h1>
@@ -24,7 +24,6 @@
 
 <p align="center">我热爱编程、航空、Minecraft。</p>
   <p align="center">我想成为优秀的开发者。</p>
-</p>
 
 ---
 
